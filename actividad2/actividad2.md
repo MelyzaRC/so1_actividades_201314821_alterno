@@ -61,3 +61,18 @@ Ahora, procedemos a ingresar el cronjob e la notaciòn correspodiente
 ```
 
 <img src="images/cron.png" alt="drawing" width="1100">
+
+### :computer: Resultado
+
+Podemos ver el funcionamiento del ***cronjob***, el cual ejecuta cada 5 minutos el script que trae la informaciòn de la cuenta de ***GitHub***. 
+
+:file_folder: **Directorio creado**
+
+<img src="images/directorio.png" alt="drawing" width="500">
+
+:file_folder: **Contenido del archivo .log**
+
+<img src="images/log1.png" alt="drawing" width="750">
+
+<img src="images/log2.png" alt="drawing" width="750">
+
