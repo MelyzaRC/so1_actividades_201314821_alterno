@@ -46,3 +46,18 @@ rm /tmp/info.json
 > <img src="images/permiso.png" alt="drawing" width="750">
 
 
+### :clock2: Cronjob
+
+Para crear un ***cronjob*** que ejecute el script creado cada 5 minutos, se debe editar el archivo ***crontab***. Para esto, ejecutamos el siguiente comando: 
+
+```
+crontab -e
+```
+
+Ahora, procedemos a ingresar el cronjob e la notaciòn correspodiente 
+
+```
+*/5 * * * * [ruta del archivo] [parámetros]
+```
+
+<img src="images/cron.png" alt="drawing" width="1100">
